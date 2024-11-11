@@ -16,7 +16,7 @@ Chaque semaine, un nouveau script sera ajouté dans ce dépôt. Voici la progres
 
 | 🗓️ Semaine | 📂 Dossier                    | 📝 Description                                      | 🔗 Lien                   |
 |------------|-------------------------------|----------------------------------------------------|--------------------------|
-| 1          | `Puissance 4 Random`         | Un jeu de Puissance 4 avec des coups joués aléatoirement. | [Voir le script](./Random%20-%20Puissance%204) |
+| 1          | `Random - Puissance 4`         | Un jeu de Puissance 4 avec des coups joués aléatoirement. | [Voir le script](./Random%20-%20Puissance%204) |
 
 Cette liste sera mise à jour chaque semaine avec les nouveaux scripts au fur et à mesure.
 
