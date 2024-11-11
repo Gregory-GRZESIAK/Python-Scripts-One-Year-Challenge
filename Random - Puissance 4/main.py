@@ -83,7 +83,7 @@ res = {"null": 0, "player1": 0, "player2": 0, "horizontal": 0, "vertical": 0,
        "diag_down": 0, "diag_up": 0, "win1": 0, "win2": 0, "win3": 0, 
        "win4": 0, "win5": 0, "win6": 0, "win7": 0}
 
-essaie_nombre = 100
+essaie_nombre = 1500000
 
 for i in range(essaie_nombre):
     print(f"Essaie : {i+1}")
