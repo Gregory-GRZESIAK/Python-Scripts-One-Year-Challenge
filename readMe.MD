@@ -17,6 +17,8 @@ Chaque semaine, un nouveau script sera ajouté dans ce dépôt. Voici la progres
 | 🗓️ Semaine | 📂 Dossier                    | 📝 Description                                      | 🔗 Lien                   |
 |------------|-------------------------------|----------------------------------------------------|--------------------------|
 | 1          | `Random - Puissance 4`         | Un jeu de Puissance 4 avec des coups joués aléatoirement. | [Voir le script](./Random%20-%20Puissance%204) |
+|------------|-------------------------------|----------------------------------------------------|--------------------------|
+| 1          | `Brute Force - Sudoku`         | Un jeu de Sudoku qui subit tout simplement un brute force. | [Voir le script](./Brute%20Force%20-%20Sudoku) |
 
 Cette liste sera mise à jour chaque semaine avec les nouveaux scripts au fur et à mesure.
 
